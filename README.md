@@ -1,5 +1,4 @@
 # report-beacon-flood
-● BoB 9기 공통교육 네트워크 과제
 
 ● Beacon Flood 공격을 날릴 수 있는 프로그램임.
 
